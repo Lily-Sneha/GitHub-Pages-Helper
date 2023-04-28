@@ -32,7 +32,7 @@ a {
 	text-decoration: none;
 }
 	a:hover {
-		border-bottom: 2px solid #5fd38d;
+		border-bottom: 2px solid #1e883d;
 	}
 
 p {
@@ -94,7 +94,7 @@ footer {
 			border: 0;
 		}
 		#burger:hover span {
-			background: #5fd38d;
+			background: #1e883d;
 		}
 
 .container {
@@ -108,7 +108,7 @@ footer {
 		font-style: capitalize;
 	}
 	.sidebar li.selected a {
-		border-bottom: 2px solid #5fd38d;
+		border-bottom: 2px solid #1e883d;
 	}
 .content {
 	flex: 75%;
@@ -159,8 +159,8 @@ footer {
 	border-radius: 3px;
 }
 	.tag.lang {
-		background: #e0ffec;
-		color: #2ca05a;
+		background: #92deb8;
+		color: #1e883d;
 	}
 
 	/* Show max 5 tags and the "Reveal" link next to it */
@@ -265,13 +265,13 @@ footer {
 	}
 
 	.kit-submit.box:hover {
-		border: 1px solid #2db563eb;
+		border: 1px solid #1e883d;
 		background-color: #c6fada;
 	}
 
 /* ************************* */
 .foot-link{
-	color: #38a463;
+	color: #1e883d;
 }
 .btn-section{
 	display: flex;
