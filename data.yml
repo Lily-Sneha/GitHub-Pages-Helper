@@ -1,337 +1,151 @@
----
-- name: Glific
-  description: A free, open-source, simple two-way communication platform for Change makers to talk to their communities.
-  url: "https://t4glabs.discourse.group/docs?topic=514"
-  filters: [open-source, paid]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# ---
+# - name: Discourse 
+#   description: Create an engaging online Discussion Platform to build and handle large communities.
+#   url: "https://t4glabs.discourse.group/docs?topic=387"
+#   filters: [open-source, freemium, discounted]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: Omeka
-  description: A free, open-source, no-fuss, and efficient web-publishing platform for sharing digital collections, creating online exhibits.
-  url: "https://t4glabs.discourse.group/docs?topic=512"
-  filters: [open-source]
-  categories: [Design Kit]
-  tags: [FOSS]
+# - name: FrappeDesk
+#   description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform.
+#   url: "https://t4glabs.discourse.group/docs?topic=386"
+#   filters: [open-source, paid]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: Listmonk
-  description: A free, open-source, no-frills, lightning-fast email marketing and newsletter platform
-  url: "https://t4glabs.discourse.group/docs?topic=511"
-  filters: [open-source]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# - name: Telegram
+#   description: A secure messaging app for one-one, teams, groups, community engagement and working together
+#   url: "https://t4glabs.discourse.group/docs?topic=376"
+#   filters: [open-source, free]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: Mautic
-  description: A free, uncomplicated, high-speed marketing automation platform.
-  url: "https://t4glabs.discourse.group/docs?topic=510"
-  filters: [open-source]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# - name: Signal
+#   description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
+#   url: "https://t4glabs.discourse.group/docs?topic=375"
+#   filters: [open-source, free]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: Bearblog
-  description: A super simple, light, privacy-First Blogging Platform for everyone
-  url: "https://t4glabs.discourse.group/docs?topic=494"
-  filters: [open-source, freemium]
-  categories: [Visibility Kit]
-  tags: [FOSS]
+# - name: Github Pages
+#   description: Free website hosting service that allows anyone to create and host a website directly from a GitHub repository.
+#   url: "https://t4glabs.discourse.group/docs?topic=371"
+#   filters: [open-source, free]
+#   categories: [Discoverability Kit]
+#   tags: [FOSS]
 
-- name: Ghost
-  description: Enhancing your publishing experience with Ghost - the open-source, professional-grade blogging platform.
-  url: "https://t4glabs.discourse.group/docs?topic=459"
-  filters: [open-source, paid]
-  categories: [Visibility Kit]
-  tags: [FOSS]
+# - name: WordPress
+#   description: An open-source Content Management System (CMS) to create, manage, and publish digital content on the web.
+#   url: "https://t4glabs.discourse.group/docs?topic=542"
+#   filters: [open-source, freemium]
+#   categories: [Discoverability Kit]
+#   tags: [FOSS]
 
-- name: Chatwoot
-  description: Chatwoot is an open-source customer support platform that enables businesses to manage their customer conversations. It’s a user-friendly, all-in-one solution that streamlines the customer support process.
-  url: "https://t4glabs.discourse.group/docs?topic=471"
-  filters: [open-source, freemium]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# - name: Drupal
+#   description: A flexible and powerful Content Management System (CMS) to build your scalable website or application.
+#   url: "https://t4glabs.discourse.group/docs?topic=543"
+#   filters: [open-source]
+#   categories: [Discoverability Kit]
+#   tags: [FOSS]
 
-- name: Discourse 
-  description: Create an engaging online Discussion Platform to build and handle large communities.
-  url: "https://t4glabs.discourse.group/docs?topic=387"
-  filters: [open-source, freemium, discounted]
-  categories: [Engagement Kit]
-  tags: [FOSS]
 
-- name: FrappeDesk
-  description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform.
-  url: "https://t4glabs.discourse.group/docs?topic=386"
-  filters: [open-source, paid]
-  categories: [Engagement Kit]
-  tags: [FOSS]
-
-- name: Telegram
-  description: A secure messaging app for one-one, teams, groups, community engagement and working together
-  url: "https://t4glabs.discourse.group/docs?topic=376"
-  filters: [open-source, free]
-  categories: [Engagement Kit]
-  tags: [FOSS]
-
-- name: Signal
-  description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
-  url: "https://t4glabs.discourse.group/docs?topic=375"
-  filters: [open-source, free]
-  categories: [Engagement Kit]
-  tags: [FOSS]
-
-- name: FrappeLMS
-  description: Trainer friendly and simple Learning/Training management system for your organisations, communities
-  url:  "https://t4glabs.discourse.group/docs?topic=385"
-  filters: [open-source, paid]
-  categories: [Learning Management Kit]
-  tags: [FOSS]
   
-
-- name: Open edX
-  description: An open-source platform designed for creating and delivering online courses. 
-  url:  "https://t4glabs.discourse.group/docs?topic=526"
-  filters: [open-source]
-  categories: [Learning Management Kit]
-  tags: [FOSS]
-
-- name: Moodle
-  description: Create, manage and deliver online courses and training for everyone
-  url:  "https://t4glabs.discourse.group/docs?topic=390"
-  filters: [open-source]
-  categories: [Learning Management Kit]
-  tags: [FOSS]
-
-- name: Pupilfirst
-  description: The open-source LMS that lets your focus on your students.
-  url:  "https://www.pupilfirst.com/"
-  filters: [open-source]
-  categories: [Learning Management Kit]
-  tags: [FOSS]
-
-- name: Github Pages
-  description: Free website hosting service that allows anyone to create and host a website directly from a GitHub repository.
-  url: "https://t4glabs.discourse.group/docs?topic=371"
-  filters: [open-source, free]
-  categories: [Discoverability Kit]
-  tags: [FOSS]
-
-- name: WordPress
-  description: An open-source Content Management System (CMS) to create, manage, and publish digital content on the web.
-  url: "https://t4glabs.discourse.group/docs?topic=542"
-  filters: [open-source, freemium]
-  categories: [Discoverability Kit]
-  tags: [FOSS]
-
-- name: Drupal
-  description: A flexible and powerful Content Management System (CMS) to build your scalable website or application.
-  url: "https://t4glabs.discourse.group/docs?topic=543"
-  filters: [open-source]
-  categories: [Discoverability Kit]
-  tags: [FOSS]
-
-- name: GIMP
-  description: An open-source, powerful, and versatile image editing software
-  url:  "https://t4glabs.discourse.group/docs?topic=528"
-  filters: [open-source, free]
-  categories: [Design Kit]
-  tags: [FOSS]
-
-- name: Undraw
-  description: Ready made Free Illustrations to use in powerpoints, reports, websites, posters, brochures and more
-  url:  "https://t4glabs.discourse.group/docs?topic=462"
-  filters: [open-source, free]
-  categories: [Design Kit]
-  tags: [FOSS]
-
-- name: Samaaja - Location based citizen engagement and crowdsourcing
-  description: Samaaja by FOSS United and Reap Benefit is a location based civic services connected with volunteer, human interactions.
-  url:  "https://samaaja.org"
-  filters: [Community Engagement]
+- name: About GitHub Pages
+  description: You can use GitHub Pages to host a website about yourself, your organization, or your project directly from a repository on GitHub.com.
+  url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages"
+  filters: [Docs]
   categories: [1. About]
   tags: []
   
-- name: Website on Frappe 
-  description: Tinkerhub Foundation's website is built simply using Frappe Framework and Website module of ERPNext
-  url:  "https://www.tinkerhub.org/"
-  filters: [Website]
-  categories: [1. About]
-  tags: []
-  
-- name: The Grove Forum 
-  description: Rainmatter Foundation runs an online forum for the ecosystem of change makers using free and open source discourse.
-  url:  "https://grove.rainmatter.org/"
-  filters: [Community Engagement]
-  categories: [1. About]
-  tags: []
+# - name: What is GitHub Pages?
+#   description: Rainmatter Foundation runs an online forum for the ecosystem of change makers using free and open source discourse.
+#   url:  "https://grove.rainmatter.org/"
+#   filters: [Community Engagement]
+#   categories: [1. About]
+#   tags: []
 
-- name: Robinhood Army - Volunteer engagement through easy check-ins, gamification and more
-  description: Volunteer checkin app (Frappe) to help distribute food surplus via volunteers. Thousands of Robins use this to food drives, get badges,etc
-  url:  "https://checkin.robinhoodarmy.com"
-  filters: [Community Engagement]
-  categories: [1. About]
-  tags: []
 
-- name: Field Guide to Human-Centered Design by IDEO
+- name: Portfolio Template
   description: Understand the people you are designing for, to prototype your ideas, and to arrive at more creative solutions.
-  url:  "http://www.designkit.org/resources/1.html"
-  filters: [Inclusive Design]
+  url:  "https://github.com/tpriyanshu90/portfolioTemplate"
+  filters: [HTML]
   categories: [2. Free Template]
   tags: []
 
-- name: Online Tech Trainings, Resources, Tools by Tech4Good Community
-  description: Nonprofit Tech Maturity AssessmentS, training, support for nonprofitS
-  url:  "https://www.otterbytech4good.com/signin"
-  filters: [Assessment, Training]
+- name: Alpine HTML-Bootstrap
+  description: Alpine is a responsive Bootstrap 5 Ecommerce template with a "Ken Burns" effect on the homepage slideshow, angled banners, and a custom image hotspot banner with popout product cards.
+  url:  "https://github.com/PixelRocket-Shop/alpine-html-bootstrap"
+  filters: [Bootstrap]
   categories: [2. Free Template]
   tags: []
 
-- name: FIELDBOOK by Ashoka ASPIRe
-  description: A DIY practical guide to leveraging platforms for impact at scale for social entrepreneurs
-  url:  "https://aspire.ashoka.org/media/336/download"
-  filters: [Inclusive Design]
-  categories: [2. Free Template]
-  tags: []
+# - name: Inclusive design & Framework by T4G Labs
+#   description: Co-create a roadmap to meaningfully leverage tech to better serve the communities you work with.
+#   url:  "https://t4glabs.org/courses/1825"
+#   filters: [Inclusive Design, Mentoring]
+#   categories: [2. Free Template]
+#   tags: []
 
-- name: We Are Not Users by Fields Of View
-  description: A model, terminology, examples, and a framework for bringing together the social, cultural, and political aspects of designing. 
-  url:  "http://fieldsofview.in/publications/wearenotusers/"
-  filters: [Inclusive Design]
-  categories: [2. Free Template]
-  tags: []
+# - name: Project Genesis - Ecosystem to accelerate FOSS for Good
+#   description: Help change makers use FOSS in their tech for impact projects by activating a thriving eco system.
+#   url:  "https://docs.google.com/presentation/d/1yZgEzOunDcRn8D0_RjIQNaaazscyz4RnQvBqKhzvt50/edit?usp=sharing"
+#   filters: [Inclusive Design]
+#   categories: [2. Free Template]
+#   tags: []
 
-- name: Inclusive design & Framework by T4G Labs
-  description: Co-create a roadmap to meaningfully leverage tech to better serve the communities you work with.
-  url:  "https://t4glabs.org/courses/1825"
-  filters: [Inclusive Design, Mentoring]
-  categories: [2. Free Template]
-  tags: []
 
-- name: Project Genesis - Ecosystem to accelerate FOSS for Good
-  description: Help change makers use FOSS in their tech for impact projects by activating a thriving eco system.
-  url:  "https://docs.google.com/presentation/d/1yZgEzOunDcRn8D0_RjIQNaaazscyz4RnQvBqKhzvt50/edit?usp=sharing"
-  filters: [Inclusive Design]
-  categories: [2. Free Template]
-  tags: []
-
-- name: Tarento
-  description: Enterprise, Digital, Data and AI services and other tech solutions.
-  url:  "https://tarento.com"
-  filters: [Service Provider, Product Design, Consulting]
-  categories: [3. Resources]
-  tags: []
-
-- name: Sanketika
-  description: Platform architecture Solutioning, Feature definition, and road mapping Engineering and delivery management Performance Engineering Opensource ecosystem.
-  url:  "http://sanketika.in/"
-  filters: [Service Provider, Product Design, Consulting]
-  categories: [3. Resources]
-  tags: []
-  
-- name: TinkerHub
+- name: Coming Soon
   description: A community of tinkerers, makers, policy geeks & students empowering those who share a passion to innovate.
   url:  "https://www.tinkerhub.org/"
   filters: [Interns, Tech Talent, Volunteers]
   categories: [3. Resources]
   tags: []
   
-- name: Samanvay Foundation
-  description: Technology Consulting. Software Development. Application Integration. Open Source. Managed Service.
-  url:  "https://www.samanvayfoundation.org/"
-  filters: [Service Provider, Consulting]
-  categories: [3. Resources]
-  tags: []
+# - name: Samanvay Foundation
+#   description: Technology Consulting. Software Development. Application Integration. Open Source. Managed Service.
+#   url:  "https://www.samanvayfoundation.org/"
+#   filters: [Service Provider, Consulting]
+#   categories: [3. Resources]
+#   tags: []
 
-- name: Colored Cow
-  description: A web development & mobile app development company that delivers tech solutions specialized for Social Sector.
-  url:  "https://coloredcow.com/"
-  filters: [Service Provider, Consulting]
-  categories: [3. Resources]
-  tags: []
-  
-- name: OpenBrackets Foundation
-  description: Enabling NGOs to get the most out of technology
-  url:  "https://openbrackets.in/"
-  filters: [Service Provider, Consulting]
-  categories: [3. Resources]
-  tags: []
-  
-- name: Kalvium
-  description: India’s 1st Liberal Engineering Program in Computer Science and graduate with new-age tech skills and 3 Years of Work Experience.
-  url:  "https://kalvium.com/"
-  filters: [Interns, Tech Talent]
-  categories: [3. Resources]
-  tags: []
-  
-- name: Tech4Good Community
-  description: A social change initiative that works towards demystifying & instituionalising technology for all Indian nonprofit organizations leading to amplified social impact.
-  url:  "https://tech4goodcommunity.com/"
-  filters: [Training, Mentoring, Strategy]
-  categories: [3. Resources]
-  tags: []
-  
-- name: T4G Labs & Tech4Good Fellows
-  description: Helping changemakers co-create free and open tech to create positive impact for vulnerable communities.
-  url:  "https://t4glabs.org/"
-  filters: [Strategy, Tech Talent, Training, Mentoring]
-  categories: [3. Resources]
-  tags: []
+# - name: Colored Cow
+#   description: A web development & mobile app development company that delivers tech solutions specialized for Social Sector.
+#   url:  "https://coloredcow.com/"
+#   filters: [Service Provider, Consulting]
+#   categories: [3. Resources]
+#   tags: []
 
-- name: OptIT
-  description: IT infrastructure solutions & services company. Focused to bring you the highest returns on your investment.
-  url:  "http://optit.in"
-  filters: [Service Provider, Consulting]
-  categories: [3. Resources]
-  tags: []
+# - name: Samagra
+#   description: Working to improve the quality of life of citizens through better governance. Focussed on creating a layer of reusable OpenSource products.
+#   url:  "http://samagragovernance.in"
+#   filters: [Service Provider, Consulting]
+#   categories: [3. Resources]
+#   tags: []
 
-- name: Qualitrix
-  description:  Qualitrix set up an independent testing unit for the end-to-end quality needs of big tech projects.
-  url:  "http://qualitrix.com"
-  filters: [Service Provider, Product Design, Consulting]
-  categories: [3. Resources]
-  tags: []
-
-- name: Samagra
-  description: Working to improve the quality of life of citizens through better governance. Focussed on creating a layer of reusable OpenSource products.
-  url:  "http://samagragovernance.in"
-  filters: [Service Provider, Consulting]
-  categories: [3. Resources]
-  tags: []
-
-- name: Jinso Raj
-  description: Jinso is a Tech4Good Fellow at T4G Labs. Can help with Telegram Bots, Websites, Deploying open-source tools and configuring. He is currently enrolled for the Frappe Developer Certification course.
-  url:  "https://www.linkedin.com/in/jinsoraj/"
-  filters: [Developer, Trainer]
+- name: Custom Domain
+  description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
+  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages"
+  filters: [Website]
   categories: [4. Getting Started]
   tags: []
 
-- name: Megha J
-  description: Megha is a Tech4Good Fellow at T4G Labs. Can help with Websites on Github Pages, TailwindCSS, KoboToolBox, Telegram Bots.
+- name: Github Domain
+  description: When you create a website using GitHub Pages, you can either use a custom domain name or the default domain name provided by GitHub, which is in the format of username.github.io.
   url:  "https://www.linkedin.com/in/megha-jibhakate/"
-  filters: [Developer, Trainer]
+  filters: [Website]
   categories: [4. Getting Started]
   tags: []
 
-- name: Lily Lakra
-  description: Lily is a Tech4Good Fellow at T4G Labs. Can help with Websites on Github Pages, Bootstrap, KoboToolBox, Telegram Bots. 
-  url:  "https://www.linkedin.com/in/lily-sneha-lakra/"
-  filters: [Developer, Trainer]
-  categories: [4. Getting Started]
-  tags: []
+# - name: Tony D'Souza
+#   description: Passionate about mental health, education, livelihoods, governance, products, and action research. Can help with Inclusive Product Design.
+#   url:  "https://www.linkedin.com/in/tonybriandsouza/"
+#   filters: [Inclusive Design, Product Management]
+#   categories: [4. Getting Started]
+#   tags: []
 
-- name: Rohit Chatterjee
-  description: Rohit is an expert in Software Architecture and a Data Engineer, Data Scientist. Works at Tech4Dev.
-  url:  "https://www.linkedin.com/in/rohit-chatterjee-7a8552/"
-  filters: [Data, Architecture, Strategy]
-  categories: [4. Getting Started]
-  tags: []
-
-- name: Tony D'Souza
-  description: Passionate about mental health, education, livelihoods, governance, products, and action research. Can help with Inclusive Product Design.
-  url:  "https://www.linkedin.com/in/tonybriandsouza/"
-  filters: [Inclusive Design, Product Management]
-  categories: [4. Getting Started]
-  tags: []
-
-- name: Shemeer
-  description: Shemeer is a Tech4Good Fellow and Co-founder at T4G Labs. Can help with de-mystifying how you can leverage tech for your mission, recommending the right FOSS tools for your needs.
-  url:  "https://www.linkedin.com/in/shemeer-babu-2590a7196/"
-  filters: [Strategy, Inclusive Design, Product Manager, Trainer]
-  categories: [4. Getting Started]
-  tags: []
+# - name: Shemeer
+#   description: Shemeer is a Tech4Good Fellow and Co-founder at T4G Labs. Can help with de-mystifying how you can leverage tech for your mission, recommending the right FOSS tools for your needs.
+#   url:  "https://www.linkedin.com/in/shemeer-babu-2590a7196/"
+#   filters: [Strategy, Inclusive Design, Product Manager, Trainer]
+#   categories: [4. Getting Started]
+#   tags: []
