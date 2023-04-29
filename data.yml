@@ -68,14 +68,14 @@
 - name: Portfolio Template
   description: Understand the people you are designing for, to prototype your ideas, and to arrive at more creative solutions.
   url:  "https://github.com/tpriyanshu90/portfolioTemplate"
-  filters: [HTML]
+  filters: [E-commerce, Showcase, Portfolio]
   categories: [2. Free Template]
   tags: []
 
 - name: Alpine HTML-Bootstrap
   description: Alpine is a responsive Bootstrap 5 Ecommerce template with a "Ken Burns" effect on the homepage slideshow, angled banners, and a custom image hotspot banner with popout product cards.
   url:  "https://github.com/PixelRocket-Shop/alpine-html-bootstrap"
-  filters: [Bootstrap]
+  filters: [E-commerce, Showcase, Portfolio]
   categories: [2. Free Template]
   tags: []
 
@@ -97,7 +97,7 @@
 - name: Coming Soon
   description: A community of tinkerers, makers, policy geeks & students empowering those who share a passion to innovate.
   url:  "https://www.tinkerhub.org/"
-  filters: [Interns, Tech Talent, Volunteers]
+  filters: []
   categories: [3. Resources]
   tags: []
   
