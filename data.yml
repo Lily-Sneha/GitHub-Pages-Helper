@@ -1,52 +1,52 @@
 # ---
-- name: Discourse 
-  description: Create an engaging online Discussion Platform to build and handle large communities.
-  url: "https://t4glabs.discourse.group/docs?topic=387"
-  filters: [open-source, freemium, discounted]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# - name: Discourse 
+#   description: Create an engaging online Discussion Platform to build and handle large communities.
+#   url: "https://t4glabs.discourse.group/docs?topic=387"
+#   filters: [open-source, freemium, discounted]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: FrappeDesk
-  description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform.
-  url: "https://t4glabs.discourse.group/docs?topic=386"
-  filters: [open-source, paid]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# - name: FrappeDesk
+#   description: An open-source, feature-rich helpdesk and customer relationship management (CRM) platform.
+#   url: "https://t4glabs.discourse.group/docs?topic=386"
+#   filters: [open-source, paid]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: Telegram
-  description: A secure messaging app for one-one, teams, groups, community engagement and working together
-  url: "https://t4glabs.discourse.group/docs?topic=376"
-  filters: [open-source, free]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# - name: Telegram
+#   description: A secure messaging app for one-one, teams, groups, community engagement and working together
+#   url: "https://t4glabs.discourse.group/docs?topic=376"
+#   filters: [open-source, free]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: Signal
-  description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
-  url: "https://t4glabs.discourse.group/docs?topic=375"
-  filters: [open-source, free]
-  categories: [Engagement Kit]
-  tags: [FOSS]
+# - name: Signal
+#   description: One of the most Secure messaging apps to communicate safely and privately with your team and communities
+#   url: "https://t4glabs.discourse.group/docs?topic=375"
+#   filters: [open-source, free]
+#   categories: [Engagement Kit]
+#   tags: [FOSS]
 
-- name: Github Pages
-  description: Free website hosting service that allows anyone to create and host a website directly from a GitHub repository.
-  url: "https://t4glabs.discourse.group/docs?topic=371"
-  filters: [open-source, free]
-  categories: [Discoverability Kit]
-  tags: [FOSS]
+# - name: Github Pages
+#   description: Free website hosting service that allows anyone to create and host a website directly from a GitHub repository.
+#   url: "https://t4glabs.discourse.group/docs?topic=371"
+#   filters: [open-source, free]
+#   categories: [Discoverability Kit]
+#   tags: [FOSS]
 
-- name: WordPress
-  description: An open-source Content Management System (CMS) to create, manage, and publish digital content on the web.
-  url: "https://t4glabs.discourse.group/docs?topic=542"
-  filters: [open-source, freemium]
-  categories: [Discoverability Kit]
-  tags: [FOSS]
+# - name: WordPress
+#   description: An open-source Content Management System (CMS) to create, manage, and publish digital content on the web.
+#   url: "https://t4glabs.discourse.group/docs?topic=542"
+#   filters: [open-source, freemium]
+#   categories: [Discoverability Kit]
+#   tags: [FOSS]
 
-- name: Drupal
-  description: A flexible and powerful Content Management System (CMS) to build your scalable website or application.
-  url: "https://t4glabs.discourse.group/docs?topic=543"
-  filters: [open-source]
-  categories: [Discoverability Kit]
-  tags: [FOSS]
+# - name: Drupal
+#   description: A flexible and powerful Content Management System (CMS) to build your scalable website or application.
+#   url: "https://t4glabs.discourse.group/docs?topic=543"
+#   filters: [open-source]
+#   categories: [Discoverability Kit]
+#   tags: [FOSS]
 
 
   
@@ -57,42 +57,33 @@
   categories: [1. About]
   tags: []
   
-- name: What is GitHub Pages?
-  description: Rainmatter Foundation runs an online forum for the ecosystem of change makers using free and open source discourse.
-  url:  "https://grove.rainmatter.org/"
-  filters: [Community Engagement]
-  categories: [1. About]
+# - name: What is GitHub Pages?
+#   description: Rainmatter Foundation runs an online forum for the ecosystem of change makers using free and open source discourse.
+#   url:  "https://grove.rainmatter.org/"
+#   filters: [Community Engagement]
+#   categories: [1. About]
+#   tags: []
+
+- name: Custom Domain
+  description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
+  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages"
+  filters: [Docs]
+  categories: [2. Getting Started]
   tags: []
 
-
-- name: Portfolio Template
-  description: Understand the people you are designing for, to prototype your ideas, and to arrive at more creative solutions.
-  url:  "https://github.com/tpriyanshu90/portfolioTemplate"
-  filters: [E-commerce, Showcase, Portfolio]
-  categories: [2. Free Template]
+- name: Github Domain
+  description: When you create a website using GitHub Pages, you can either use a custom domain name or the default domain name provided by GitHub, which is in the format of username.github.io.
+  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages"
+  filters: [Docs]
+  categories: [2. Getting Started]
   tags: []
 
-- name: Alpine HTML-Bootstrap
-  description: Alpine is a responsive Bootstrap 5 Ecommerce template with a "Ken Burns" effect on the homepage slideshow, angled banners, and a custom image hotspot banner with popout product cards.
-  url:  "https://github.com/PixelRocket-Shop/alpine-html-bootstrap"
-  filters: [E-commerce, Showcase, Portfolio]
-  categories: [2. Free Template]
+- name: Github Advanced Security
+  description: GitHub Advanced Security is a suite of security tools that helps developers and organizations secure their code and applications. It includes features such as code scanning, dependency review, secret scanning, and security alerts, providing a comprehensive and effective security solution for software development.
+  url:  "https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security"
+  filters: [Docs]
+  categories: [2. Getting Started]
   tags: []
-
-- name: Inclusive design & Framework by T4G Labs
-  description: Co-create a roadmap to meaningfully leverage tech to better serve the communities you work with.
-  url:  "https://t4glabs.org/courses/1825"
-  filters: [Inclusive Design, Mentoring]
-  categories: [2. Free Template]
-  tags: []
-
-- name: Project Genesis - Ecosystem to accelerate FOSS for Good
-  description: Help change makers use FOSS in their tech for impact projects by activating a thriving eco system.
-  url:  "https://docs.google.com/presentation/d/1yZgEzOunDcRn8D0_RjIQNaaazscyz4RnQvBqKhzvt50/edit?usp=sharing"
-  filters: [Inclusive Design]
-  categories: [2. Free Template]
-  tags: []
-
 
 - name: Coming Soon
   description: coming soon
@@ -100,20 +91,77 @@
   filters: [coming soon]
   categories: [3. Resources]
   tags: []
-  
-- name: Samanvay Foundation
-  description: Technology Consulting. Software Development. Application Integration. Open Source. Managed Service.
-  url:  "https://www.samanvayfoundation.org/"
-  filters: [Service Provider, Consulting]
-  categories: [3. Resources]
+
+- name: My Portfolio
+  description: A portfolio website is a type of website that showcases an individual's or a company's work or achievements in a particular field, such as art, design, writing, or photography.
+  url:  "https://github.com/officialabhishekgautam/Portfolio-Website"
+  filters: [E-commerce, Showcase, Portfolio]
+  categories: [4. Free Template]
   tags: []
 
-- name: Colored Cow
-  description: A web development & mobile app development company that delivers tech solutions specialized for Social Sector.
-  url:  "https://coloredcow.com/"
-  filters: [Service Provider, Consulting]
-  categories: [3. Resources]
+- name: Footcap
+  description:  It offers a wide range of footwear products for men, women, and children, including casual shoes, dress shoes, boots, sneakers, and athletic shoes. 
+  url:  "https://github.com/codewithsadee/footcap"
+  filters: [E-commerce, Showcase, Portfolio]
+  categories: [4. Free Template]
   tags: []
+
+- name: Blog
+  description:  Blog websites often have a user-friendly interface that allows visitors to easily navigate through different categories and topics, search for specific articles, and engage with the author through comments and social media. 
+  url:  "https://github.com/oniani/blogplate"
+  filters: [E-commerce, Showcase, Portfolio]
+  categories: [4. Free Template]
+  tags: []
+
+- name: Shopping
+  description: These websites typically offer a wide range of products across different categories, including clothing, electronics, home and kitchen, beauty and personal care, and more.
+  url:  "https://github.com/World-of-Templates/HTMLDesign-eCommerce-Free-Templates"
+  filters: [E-commerce, Showcase, Portfolio]
+  categories: [4. Free Template]
+  tags: []
+
+- name: Member Showcase
+  description: These websites are often used by artists, designers, photographers, and other creative professionals to showcase their skills and past projects to potential clients and employers.
+  url:  "https://github.com/belopot/member-showcase"
+  filters: [E-commerce, Showcase, Portfolio]
+  categories: [4. Free Template]
+  tags: []
+
+# - name: Inclusive design & Framework by T4G Labs
+#   description: Co-create a roadmap to meaningfully leverage tech to better serve the communities you work with.
+#   url:  "https://t4glabs.org/courses/1825"
+#   filters: [Inclusive Design, Mentoring]
+#   categories: [4. Free Template]
+#   tags: []
+
+# - name: Project Genesis - Ecosystem to accelerate FOSS for Good
+#   description: Help change makers use FOSS in their tech for impact projects by activating a thriving eco system.
+#   url:  "https://docs.google.com/presentation/d/1yZgEzOunDcRn8D0_RjIQNaaazscyz4RnQvBqKhzvt50/edit?usp=sharing"
+#   filters: [Inclusive Design]
+#   categories: [4. Free Template]
+#   tags: []
+
+
+- name: Coming Soon
+  description: coming soon
+  url:  "https://www.tinkerhub.org/"
+  filters: [coming soon]
+  categories: [5. Support]
+  tags: []
+  
+# - name: Samanvay Foundation
+#   description: Technology Consulting. Software Development. Application Integration. Open Source. Managed Service.
+#   url:  "https://www.samanvayfoundation.org/"
+#   filters: [Service Provider, Consulting]
+#   categories: [3. Resources]
+#   tags: []
+
+# - name: Colored Cow
+#   description: A web development & mobile app development company that delivers tech solutions specialized for Social Sector.
+#   url:  "https://coloredcow.com/"
+#   filters: [Service Provider, Consulting]
+#   categories: [3. Resources]
+#   tags: []
 
 # - name: Samagra
 #   description: Working to improve the quality of life of citizens through better governance. Focussed on creating a layer of reusable OpenSource products.
@@ -122,19 +170,19 @@
 #   categories: [3. Resources]
 #   tags: []
 
-- name: Custom Domain
-  description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
-  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages"
-  filters: [Website]
-  categories: [4. Getting Started]
-  tags: []
+# - name: Custom Domain
+#   description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
+#   url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages"
+#   filters: [Website]
+#   categories: [4. Getting Started]
+#   tags: []
 
-- name: Github Domain
-  description: When you create a website using GitHub Pages, you can either use a custom domain name or the default domain name provided by GitHub, which is in the format of username.github.io.
-  url:  "https://www.linkedin.com/in/megha-jibhakate/"
-  filters: [Website]
-  categories: [4. Getting Started]
-  tags: []
+# - name: Github Domain
+#   description: When you create a website using GitHub Pages, you can either use a custom domain name or the default domain name provided by GitHub, which is in the format of username.github.io.
+#   url:  "https://www.linkedin.com/in/megha-jibhakate/"
+#   filters: [Website]
+#   categories: [4. Getting Started]
+#   tags: []
 
 # - name: Tony D'Souza
 #   description: Passionate about mental health, education, livelihoods, governance, products, and action research. Can help with Inclusive Product Design.
