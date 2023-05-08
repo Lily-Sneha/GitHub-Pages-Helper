@@ -5,16 +5,16 @@
   categories: [1. About]
   tags: []
 
-- name: Types of Github Pages Site
-  description: GitHub Pages is a static site hosting service offered by GitHub that allows you to create and publish a website for free, directly from your GitHub repository. It is a great option for creating simple, static websites such as personal blogs, project documentation, and portfolios. With GitHub Pages, you can choose from a variety of templates or create your own, and easily customize your site using HTML, CSS, and JavaScript. Your site is automatically updated whenever you push changes to your repository, making it easy to maintain and update.
-  url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites"
+- name: Introduction to GitHub
+  description: People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.
+  url:  "https://github.com/skills/introduction-to-github"
   filters: [Docs]
   categories: [1. About]
   tags: []
 
-- name: Create a Repo
-  description: Creating a repository on GitHub is a simple and straightforward process. A repository is a central location where you can store and manage your code, collaborate with others, and keep track of changes.
-  url:  "https://docs.github.com/en/get-started/quickstart/hello-world#creating-a-repository"
+- name: Creating a GitHub Pages site
+  description: Creating a GitHub Pages site refers to the process of publishing a website using GitHub Pages, a free web hosting service offered by GitHub.
+  url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site"
   filters: [Docs]
   categories: [2. Get Started]
   tags: []
@@ -40,9 +40,16 @@
 #   categories: [2. Get Started]
 #   tags: []
 
-- name: Github Advanced Security
-  description: GitHub Advanced Settings are customizable options for optimizing repository and organization settings. They include features such as branch protections, access control, and deployment settings, allowing users to tailor their workflows for improved productivity and security. Typically reserved for admins and owners, these settings offer a way to customize the GitHub experience to meet specific needs.
-  url:  "https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security#about-github-advanced-security"
+# - name: Github Advanced Security
+#   description: GitHub Advanced Settings are customizable options for optimizing repository and organization settings. They include features such as branch protections, access control, and deployment settings, allowing users to tailor their workflows for improved productivity and security. Typically reserved for admins and owners, these settings offer a way to customize the GitHub experience to meet specific needs.
+#   url:  "https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security#about-github-advanced-security"
+#   filters: [Docs]
+#   categories: [3. Resources]
+#   tags: []
+
+- name: Inviting collaborators to a personal repository
+  description: To collaborate with users in a repository that belongs to your personal account on GitHub.com, you can invite the users as collaborators.
+  url:  "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
@@ -54,54 +61,75 @@
   categories: [3. Resources]
   tags: []
 
+- name: Restoring a deleted repository
+  description: Anyone can restore deleted repositories that were owned by their own personal account. Organization owners can restore deleted repositories that were owned by the organization.
+  url:  "https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository"
+  filters: [Docs]
+  categories: [3. Resources]
+  tags: []
+
+- name: Managing GitHub Actions settings for a repository
+  description: You can disable or configure GitHub Actions for a specific repository.
+  url: "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository"
+  filters: [Docs]
+  categories: [3. Resources]
+  tags: []
+
+- name: Configuring a publishing source for your GitHub Pages site
+  description: You can configure your GitHub Pages site to publish when changes are pushed to a specific branch, or you can write a GitHub Actions workflow to publish your site.
+  url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"
+  filters: [Docs]
+  categories: [3. Resources]
+  tags: []
+
 - name: My Portfolio
   description: A portfolio website is a type of website that showcases an individual's or a company's work or achievements in a particular field, such as art, design, writing, or photography.
   url:  "https://github.com/officialabhishekgautam/Portfolio-Website"
-  filters: [E-commerce, Showcase, Portfolio]
+  filters: [Portfolio, Website]
   categories: [4. Free Template]
   tags: []
 
 - name: Footcap
   description:  It offers a wide range of footwear products for men, women, and children, including casual shoes, dress shoes, boots, sneakers, and athletic shoes. 
   url:  "https://github.com/codewithsadee/footcap"
-  filters: [E-commerce, Showcase, Portfolio]
+  filters: [E-commerce, Website]
   categories: [4. Free Template]
   tags: []
 
 - name: Blog
   description:  Blog websites often have a user-friendly interface that allows visitors to easily navigate through different categories and topics, search for specific articles, and engage with the author through comments and social media. 
   url:  "https://github.com/oniani/blogplate"
-  filters: [E-commerce, Showcase, Portfolio]
+  filters: [Blog, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: Shopping
-  description: These websites typically offer a wide range of products across different categories, including clothing, electronics, home and kitchen, beauty and personal care, and more.
-  url:  "https://github.com/World-of-Templates/HTMLDesign-eCommerce-Free-Templates"
-  filters: [E-commerce, Showcase, Portfolio]
-  categories: [4. Free Template]
-  tags: []
+# - name: Shopping
+#   description: These websites typically offer a wide range of products across different categories, including clothing, electronics, home and kitchen, beauty and personal care, and more.
+#   url:  "https://github.com/World-of-Templates/HTMLDesign-eCommerce-Free-Templates"
+#   filters: [E-commerce, Showcase, Portfolio]
+#   categories: [4. Free Template]
+#   tags: []
 
-- name: Member Showcase
+- name: Gallery Grove
   description: These websites are often used by artists, designers, photographers, and other creative professionals to showcase their skills and past projects to potential clients and employers.
   url:  "https://github.com/belopot/member-showcase"
-  filters: [E-commerce, Showcase, Portfolio]
+  filters: [Showcase, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: Eco-Village
+- name: Farming Friends
   description: Welcome to our eco-village website! We're a sustainable community that values conscious living, minimizing our environmental impact, and creating a high quality of life. Join us in creating a better world.
   url:  "https://github.com/Eco-Villaage/eco-villaage.github.io"
-  filters: [E-commerce, Showcase, Portfolio]
+  filters: [Networking, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: Marshmallow
-  description: Welcome to our eco-village website! We're a sustainable community that values conscious living, minimizing our environmental impact, and creating a high quality of life. Join us in creating a better world.
-  url:  "https://github.com/ljayz/marshmallow-landing-bootstrap-dash"
-  filters: [E-commerce, Showcase, Portfolio]
-  categories: [4. Free Template]
-  tags: []
+# - name: Marshmallow
+#   description: Welcome to our eco-village website! We're a sustainable community that values conscious living, minimizing our environmental impact, and creating a high quality of life. Join us in creating a better world.
+#   url:  "https://github.com/ljayz/marshmallow-landing-bootstrap-dash"
+#   filters: [E-commerce, Showcase, Portfolio]
+#   categories: [4. Free Template]
+#   tags: []
 
 
 - name: Github pages support Telegram Group
@@ -112,7 +140,7 @@
   tags: []
 
 
-- name: Github pages Support
+- name: About GitHub Support
   description: GitHub support helps users troubleshoot issues and get answers to questions through the website's help center, community forums, and direct support from staff. They can assist with technical issues, account management, billing inquiries, and more. Priority support is available for enterprise customers.
   url:  "https://docs.github.com/en/support/learning-about-github-support/about-github-support"
   filters: [Docs]
