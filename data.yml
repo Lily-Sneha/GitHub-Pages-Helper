@@ -1,83 +1,76 @@
-- name: About GitHub Pages
-  description: You can use GitHub Pages to host a website about yourself, your organization, or your project directly from a repository on GitHub.com.
-  url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages"
-  filters: [Docs]
-  categories: [1. About]
-  tags: []
-
-- name: Introduction to GitHub
+- name: 1. Introduction to GitHub
   description: People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.
   url:  "https://github.com/skills/introduction-to-github"
   filters: [Docs]
   categories: [1. About]
   tags: []
 
-- name: Creating a GitHub Pages site
+- name: 2. About GitHub Pages
+  description: You can use GitHub Pages to host a website about yourself, your organization, or your project directly from a repository on GitHub.com.
+  url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages"
+  filters: [Docs]
+  categories: [1. About]
+  tags: []
+
+- name: 1. Getting started with your GitHub account
+  description:  The first steps in starting with GitHub are to create an account, choose a product that fits your needs best, verify your email, set up two-factor authentication, and view your profile.
+  url:  "https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#1-creating-an-account"
+  filters: [Docs]
+  categories: [2. Get Started]
+  tags: []
+
+- name: 2. Creating a GitHub Pages site
   description: Creating a GitHub Pages site refers to the process of publishing a website using GitHub Pages, a free web hosting service offered by GitHub.
   url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site"
   filters: [Docs]
   categories: [2. Get Started]
   tags: []
 
-- name: Fork a Repo
+- name: 3. Fork a Repo
   description:  Forking a repository on GitHub means creating a copy of another user's repository on your account. This lets you experiment with the code without affecting the original project. Forking is used for contributing to open source projects, modifying existing code, or creating new projects. It's a feature that promotes collaboration in software development.
   url:  "https://docs.github.com/en/get-started/quickstart/fork-a-repo#about-forks"
   filters: [Docs]
   categories: [2. Get Started]
   tags: []
 
-# - name: Github Domain
-#   description: When you create a website using GitHub Pages, you can either use a custom domain name or the default domain name provided by GitHub, which is in the format of username.github.io.
-#   url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages"
-#   filters: [Docs]
-#   categories: [2. Get Started]
-#   tags: []
-
-# - name: Github Advanced Security
-#   description: GitHub Advanced Security is a suite of security tools that helps developers and organizations secure their code and applications. It includes features such as code scanning, dependency review, secret scanning, and security alerts, providing a comprehensive and effective security solution for software development.
-#   url:  "https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security"
-#   filters: [Docs]
-#   categories: [2. Get Started]
-#   tags: []
-
-# - name: Github Advanced Security
-#   description: GitHub Advanced Settings are customizable options for optimizing repository and organization settings. They include features such as branch protections, access control, and deployment settings, allowing users to tailor their workflows for improved productivity and security. Typically reserved for admins and owners, these settings offer a way to customize the GitHub experience to meet specific needs.
-#   url:  "https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security#about-github-advanced-security"
-#   filters: [Docs]
-#   categories: [3. Resources]
-#   tags: []
-
-- name: Inviting collaborators to a personal repository
-  description: To collaborate with users in a repository that belongs to your personal account on GitHub.com, you can invite the users as collaborators.
-  url:  "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository"
+- name: 1. About publishing sources
+  description: Your GitHub Pages site will publish whenever changes are pushed to a specific branch. You can specify which branch and folder to use as your publishing source.
+  url:  "https://docs.github.com/en/enterprise-server@3.6/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: Managing a custom domain for your GitHub Pages site
+- name: 2. Pushing commits to a remote repository
+  description: Use git push to push commits made on your local branch to a remote repository.
+  url:  "https://docs.github.com/en/enterprise-server@3.6/get-started/using-git/pushing-commits-to-a-remote-repository#about-git-push"
+  filters: [Docs]
+  categories: [3. Resources]
+  tags: []
+
+- name: 3. Managing a custom domain for your GitHub Pages site
   description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
   url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: Restoring a deleted repository
-  description: Anyone can restore deleted repositories that were owned by their own personal account. Organization owners can restore deleted repositories that were owned by the organization.
-  url:  "https://docs.github.com/en/repositories/creating-and-managing-repositories/restoring-a-deleted-repository"
+- name: 4. Inviting collaborators to a personal repository
+  description: To collaborate with users in a repository that belongs to your personal account on GitHub.com, you can invite the users as collaborators.
+  url:  "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: Managing GitHub Actions settings for a repository
+- name: 5. Managing GitHub Actions settings for a repository
   description: You can disable or configure GitHub Actions for a specific repository.
   url: "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: Configuring a publishing source for your GitHub Pages site
-  description: You can configure your GitHub Pages site to publish when changes are pushed to a specific branch, or you can write a GitHub Actions workflow to publish your site.
-  url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"
+- name: 6. Deleting files in a repository
+  description: You can delete an individual file or an entire directory in your repository on GitHub Enterprise Server.
+  url:  "https://docs.github.com/en/enterprise-server@3.6/repositories/working-with-files/managing-files/deleting-files-in-a-repository#deleting-a-directory"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
@@ -88,7 +81,7 @@
   filters: [Portfolio, Website]
   categories: [4. Free Template]
   tags: []
-
+  
 - name: Footcap
   description:  It offers a wide range of footwear products for men, women, and children, including casual shoes, dress shoes, boots, sneakers, and athletic shoes. 
   url:  "https://github.com/codewithsadee/footcap"
@@ -102,13 +95,6 @@
   filters: [Blog, Website]
   categories: [4. Free Template]
   tags: []
-
-# - name: Shopping
-#   description: These websites typically offer a wide range of products across different categories, including clothing, electronics, home and kitchen, beauty and personal care, and more.
-#   url:  "https://github.com/World-of-Templates/HTMLDesign-eCommerce-Free-Templates"
-#   filters: [E-commerce, Showcase, Portfolio]
-#   categories: [4. Free Template]
-#   tags: []
 
 - name: Gallery Grove
   description: These websites are often used by artists, designers, photographers, and other creative professionals to showcase their skills and past projects to potential clients and employers.
@@ -124,21 +110,12 @@
   categories: [4. Free Template]
   tags: []
 
-# - name: Marshmallow
-#   description: Welcome to our eco-village website! We're a sustainable community that values conscious living, minimizing our environmental impact, and creating a high quality of life. Join us in creating a better world.
-#   url:  "https://github.com/ljayz/marshmallow-landing-bootstrap-dash"
-#   filters: [E-commerce, Showcase, Portfolio]
-#   categories: [4. Free Template]
-#   tags: []
-
-
 - name: Github pages support Telegram Group
   description: GitHub Support Telegram Group is an online community on Telegram where GitHub users can get help with issues related to GitHub from other community members.
   url:  "https://t.me/+8GTxVam3attjYjc1"
   filters: [Telegram Group]
   categories: [5. Support]
   tags: []
-
 
 - name: About GitHub Support
   description: GitHub support helps users troubleshoot issues and get answers to questions through the website's help center, community forums, and direct support from staff. They can assist with technical issues, account management, billing inquiries, and more. Priority support is available for enterprise customers.
