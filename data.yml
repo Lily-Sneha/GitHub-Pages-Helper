@@ -54,9 +54,9 @@
   categories: [3. Resources]
   tags: []
 
-- name: Setting Custom Domain
+- name: Managing a custom domain for your GitHub Pages site
   description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
-  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages"
+  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
