@@ -40,28 +40,28 @@
   categories: [3. Resources]
   tags: []
 
-- name: 2. Pushing commits to a remote repository
+- name: 2. Pushing commits
   description: Use git push to push commits made on your local branch to a remote repository.
   url:  "https://docs.github.com/en/enterprise-server@3.6/get-started/using-git/pushing-commits-to-a-remote-repository#about-git-push"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: 3. Managing a custom domain for your GitHub Pages site
+- name: 3. Managing a custom domain
   description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
   url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: 4. Inviting collaborators to a personal repository
+- name: 4. Inviting collaborators
   description: To collaborate with users in a repository that belongs to your personal account on GitHub.com, you can invite the users as collaborators.
   url:  "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: 5. Managing GitHub Actions settings for a repository
+- name: 5. Managing GitHub Actions settings
   description: You can disable or configure GitHub Actions for a specific repository.
   url: "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository"
   filters: [Docs]
@@ -81,7 +81,7 @@
   filters: [Portfolio, Website]
   categories: [4. Free Template]
   tags: []
-  
+
 - name: Footcap
   description:  It offers a wide range of footwear products for men, women, and children, including casual shoes, dress shoes, boots, sneakers, and athletic shoes. 
   url:  "https://github.com/codewithsadee/footcap"
