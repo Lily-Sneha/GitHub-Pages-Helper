@@ -82,16 +82,16 @@
   categories: [4. Free Template]
   tags: []
   
-- name: 2. Multi Purpose Single Page Website
+- name: 2. Blog Single Page Website
   description: A blogging website is a site where people can regularly post articles or entries on various topics, such as personal experiences, opinions, news, or tutorials. It often includes features like categories, tags, and comments to make it easy for visitors to engage with the content.
   url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Blog%20Page%20Website"
   filters: [Blog, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 3. Footwear Website
-  description:  It offers a wide range of footwear products for men, women, and children, including casual shoes, dress shoes, boots, sneakers, and athletic shoes. 
-  url:  "https://github.com/codewithsadee/footcap"
+- name: 3. Vegetable Shop Website
+  description: Welcome to online Vegetable Shop, your ultimate source for everything related to vegetables. Here, you'll find information about various types of vegetables, including their health benefits, nutritional value, and culinary uses. 
+  url:  "https://github.com/World-of-Templates/HTMLDesign-eCommerce-Free-Templates/tree/main/Eatveg"
   filters: [E-commerce, Website]
   categories: [4. Free Template]
   tags: []
@@ -102,6 +102,41 @@
   filters: [Networking, Website]
   categories: [4. Free Template]
   tags: []
+
+- name: 5. Login and Signup single page Website
+  description: A login and signup page website is a web application that allows users to create a new account or login to an existing account. These pages are essential for websites that require user authentication to access certain features or content. A typical login page will prompt users to enter their username and password, while a signup page will ask for basic personal information such as name, email address, and a password. Once a user has created an account or logged in, they can access the website's protected content or features. A well-designed login and signup page can help enhance the user experience and ensure the security of user data.
+  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/login%20and%20signup%20page"
+  filters: [Networking, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: 6. Cake Shop Website
+  description: A cake shop website is an online platform that showcases various types of cakes and baked goods that are available for purchase. Typically, the website would include a catalog of available cakes with pictures, descriptions, and pricing information. The website may also provide users with the ability to customize cakes or place orders for specific occasions. Additionally, a cake shop website may include information about the bakery, such as its location, hours of operation, and history. Some cake shop websites may also offer additional services such as delivery, catering, or baking classes. A well-designed cake shop website can attract customers and help build a strong brand.
+  url:  "https://cool-frontend-templates.netlify.app/cakeshopwebsite/"
+  filters: [E-commerce, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: 7. Gym Website
+  description: A gym website is a web platform that provides information about a gym's facilities, services, and membership options. The website typically includes a homepage with an overview of the gym's features, such as equipment, classes, personal training, and pricing information. Additionally, a gym website may provide details about the gym's location, hours of operation, and any special promotions or discounts. Some gym websites may also include a schedule of classes, allowing users to sign up for specific sessions online. A well-designed gym website can help attract new members and provide a convenient way for existing members to stay informed about the gym's offerings.
+  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Gym%20Website"
+  filters: [Fitness, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: 8. Audition page
+  description: An audition page is a web page that tells actors, singers, dancers, or other performers about a casting call. It gives details about the role, like what kind of performance is required. The audition page will also give information about where and when the audition will take place, as well as what the performers should prepare beforehand. A good audition page can help performers understand what's expected of them and attract the right talent for the role.
+  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Gym%20Website"
+  filters: [Entertainment, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: 9. Yoga Page
+  description: A yoga website is an online platform that offers a range of resources and services related to the practice of yoga. It typically includes information about yoga classes, workshops, retreats, and teacher trainings, as well as instructional videos, articles, and blogs on various aspects of yoga. The website may also feature a community section where yogis can connect with each other, share their experiences, and find support. Overall, a yoga website aims to promote the practice of yoga as a way to improve physical, mental, and emotional health and wellbeing.
+  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Yoga%20Template%202"
+  filters: [Fitness, Website]
+  categories: [4. Free Template]
+  tags: []  
 
 
 - name: 1. About GitHub Support
