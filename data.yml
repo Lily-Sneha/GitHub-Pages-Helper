@@ -1,26 +1,26 @@
 - name: 1. Introduction to GitHub
-  description: People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better.
+  description: GitHub Pages is a free web hosting service provided by GitHub that allows users to create a simple website or blog directly from their GitHub repositories. With GitHub Pages, you can easily publish your code, projects, documentation, and personal website on the internet without the need for a separate web hosting service. GitHub Pages supports static websites built with HTML, CSS, and JavaScript, as well as popular static site generators such as Jekyll, Hugo, and Gatsby. Whether you're a developer or a non-technical user, GitHub Pages is a great way to showcase your work and build an online presence.
   url:  "https://github.com/skills/introduction-to-github"
   filters: [Docs]
   categories: [1. About]
   tags: []
 
 - name: 2. About GitHub Pages
-  description: You can use GitHub Pages to host a website about yourself, your organization, or your project directly from a repository on GitHub.com.
+  description: GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
   url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages"
   filters: [Docs]
   categories: [1. About]
   tags: []
 
 - name: 1. Getting started with your GitHub account
-  description:  The first steps in starting with GitHub are to create an account, choose a product that fits your needs best, verify your email, set up two-factor authentication, and view your profile.
+  description: Getting started with your GitHub account is easy. First, create an account on the GitHub website. Once you've signed up, you can start creating and managing repositories, which are the basic units of work on GitHub. You can create new repositories to store and share your code, or contribute to existing ones by submitting pull requests. GitHub also allows you to collaborate with other users by forking their repositories and making changes, or by inviting them to join your own projects. In addition to code, you can also use GitHub to host documentation, project websites, and other types of content. With its powerful tools for version control, issue tracking, and collaboration, GitHub is a valuable resource for developers and anyone looking to manage and share their work online.
   url:  "https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#1-creating-an-account"
   filters: [Docs]
   categories: [2. Get Started]
   tags: []
 
 - name: 2. Creating a GitHub Pages site
-  description: Creating a GitHub Pages site refers to the process of publishing a website using GitHub Pages, a free web hosting service offered by GitHub.
+  description: To create a GitHub Pages site, start by creating a new repository on GitHub and giving it a name in the format `<username>.github.io`. Then, add an `index.html` file to the repository with your website's content. You can also use a static site generator like Jekyll, Hugo, or Gatsby to create your site. Once your site is ready, go to the repository's settings and enable GitHub Pages by selecting the source branch and folder for your site. Your site will be published at https://<username>.github.io/. With GitHub Pages, you can easily create and host a simple website or blog using your GitHub repository.
   url:  "https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site"
   filters: [Docs]
   categories: [2. Get Started]
@@ -33,93 +33,87 @@
   categories: [2. Get Started]
   tags: []
 
-- name: 1. About publishing sources
-  description: Your GitHub Pages site will publish whenever changes are pushed to a specific branch. You can specify which branch and folder to use as your publishing source.
+- name: 1. Deploying to GitHub Pages
+  description: Deploying to GitHub Pages is a way to publish a website or web application on the internet using GitHub's hosting service. It involves creating a repository on GitHub, adding your website files to it, and configuring some settings to enable GitHub to serve your site to visitors. Once set up, GitHub Pages makes it easy to update and maintain your website, as any changes you push to your repository will be automatically deployed to the web. It's a simple and free way to get your website up and running quickly.
   url:  "https://docs.github.com/en/enterprise-server@3.6/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#about-publishing-sources"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: 2. Pushing commits
-  description: Use git push to push commits made on your local branch to a remote repository.
+- name: 2. How to update website contents
+  description: To update website contents on GitHub, you need to make changes to the files that are stored in your repository. You can do this by editing the files directly on the GitHub website or by making changes to the files on your local computer and then pushing those changes to the repository using Git commands. Once the changes are pushed to the repository, they will be live on your website. It's important to check the website to make sure the changes look and work as intended. If there are any issues, you can make further changes and push them to the repository until the website is updated correctly.
   url:  "https://docs.github.com/en/enterprise-server@3.6/get-started/using-git/pushing-commits-to-a-remote-repository#about-git-push"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: 3. Managing a custom domain
-  description: GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.
-  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site"
-  filters: [Docs]
-  categories: [3. Resources]
-  tags: []
-
-- name: 4. Inviting collaborators
-  description: To collaborate with users in a repository that belongs to your personal account on GitHub.com, you can invite the users as collaborators.
+- name: 3. Inviting collaborators
+  description: Inviting collaborators to your GitHub repository is easy and allows multiple people to work on the same codebase. To invite collaborators, go to your repository's settings and click on "Manage access". Then, enter the username or email address of the person you want to invite and select their desired level of access. Collaborators can have read, write, or admin access to your repository, depending on the level of permission you grant them. Once you invite a collaborator, they will receive an email notification with instructions on how to accept the invitation and start collaborating with you. With GitHub's collaboration features, you can work on projects with others in real-time, track changes, and easily manage contributions.
   url:  "https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: 5. Managing GitHub Actions settings
-  description: You can disable or configure GitHub Actions for a specific repository.
-  url: "https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository"
+- name: 4. Github Repo Setting
+  description: GitHub Repo Settings allows you to configure various settings and options for your GitHub repository. To access the settings, go to your repository's homepage and click on the "Settings" tab. From there, you can manage a variety of options, including the repository's name, description, visibility, and access control. You can also configure integrations with other tools, such as continuous integration (CI) and continuous deployment (CD) services, as well as webhooks to trigger events in other services. In addition, you can manage the repository's branches, labels, and milestones, and configure security options such as two-factor authentication and code scanning. With GitHub Repo Settings, you can customize and fine-tune your repository to fit your needs.
+  url: "https://medium.com/@rinerkyle97/setting-up-a-github-repository-bfc18750cc5e"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: 6. Deleting files in a repository
-  description: You can delete an individual file or an entire directory in your repository on GitHub Enterprise Server.
-  url:  "https://docs.github.com/en/enterprise-server@3.6/repositories/working-with-files/managing-files/deleting-files-in-a-repository#deleting-a-directory"
+- name: 5. Deleting a repository
+  description: To delete a GitHub repository, go to the repository's homepage and click on "Settings". From there, scroll down to the bottom of the page and click on "Delete this repository". You will be asked to confirm the deletion and enter the name of the repository to confirm. Once you confirm the deletion, the repository and all its contents will be permanently deleted from GitHub. However, if you have a backup of the repository or a local copy on your computer, you can still recover the contents. With GitHub's repository deletion feature, you can easily remove repositories that are no longer needed or outdated.
+  url:  "https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository"
   filters: [Docs]
   categories: [3. Resources]
   tags: []
 
-- name: My Portfolio
+- name: 6. Managing a custom domain
+  description: Managing a custom domain for your GitHub Pages site involves adding a DNS record to your domain's DNS settings and configuring your GitHub Pages repository to use the custom domain. First, buy a domain from a registrar and then create a CNAME or A record pointing to <username>.github.io or your custom domain in your DNS settings. Then, add the custom domain to your GitHub Pages repository's settings. After a few minutes, your GitHub Pages site will be accessible at your custom domain. With a custom domain, you can give your GitHub Pages site a professional look and make it easier to share with others.
+  url:  "https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site"
+  filters: [Docs]
+  categories: [3. Resources]
+  tags: []
+
+- name: 1. Portfolio Website
   description: A portfolio website is a type of website that showcases an individual's or a company's work or achievements in a particular field, such as art, design, writing, or photography.
   url:  "https://github.com/officialabhishekgautam/Portfolio-Website"
   filters: [Portfolio, Website]
   categories: [4. Free Template]
   tags: []
+  
+- name: 2. Multi Purpose Single Page Website
+  description: A blogging website is a site where people can regularly post articles or entries on various topics, such as personal experiences, opinions, news, or tutorials. It often includes features like categories, tags, and comments to make it easy for visitors to engage with the content.
+  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Blog%20Page%20Website"
+  filters: [Blog, Website]
+  categories: [4. Free Template]
+  tags: []
 
-- name: Footcap
+- name: 3. Footwear Website
   description:  It offers a wide range of footwear products for men, women, and children, including casual shoes, dress shoes, boots, sneakers, and athletic shoes. 
   url:  "https://github.com/codewithsadee/footcap"
   filters: [E-commerce, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: Blog
-  description:  Blog websites often have a user-friendly interface that allows visitors to easily navigate through different categories and topics, search for specific articles, and engage with the author through comments and social media. 
-  url:  "https://github.com/oniani/blogplate"
-  filters: [Blog, Website]
-  categories: [4. Free Template]
-  tags: []
-
-- name: Gallery Grove
-  description: These websites are often used by artists, designers, photographers, and other creative professionals to showcase their skills and past projects to potential clients and employers.
-  url:  "https://github.com/belopot/member-showcase"
-  filters: [Showcase, Website]
-  categories: [4. Free Template]
-  tags: []
-
-- name: Farming Friends
+- name: 4. Farming Friends Website
   description: Welcome to our Farming Friends website! We're a sustainable community that values conscious living, minimizing our environmental impact, and creating a high quality of life. Join us in creating a better world.
   url:  "https://github.com/Eco-Villaage/eco-villaage.github.io"
   filters: [Networking, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: Github pages support Telegram Group
-  description: GitHub Support Telegram Group is an online community on Telegram where GitHub users can get help with issues related to GitHub from other community members.
-  url:  "https://t.me/+8GTxVam3attjYjc1"
-  filters: [Telegram Group]
-  categories: [5. Support]
-  tags: []
 
-- name: About GitHub Support
+- name: 1. About GitHub Support
   description: GitHub support helps users troubleshoot issues and get answers to questions through the website's help center, community forums, and direct support from staff. They can assist with technical issues, account management, billing inquiries, and more. Priority support is available for enterprise customers.
   url:  "https://docs.github.com/en/support/learning-about-github-support/about-github-support"
   filters: [Docs]
+  categories: [5. Support]
+  tags: []
+
+- name: 2. Github pages support Telegram Group
+  description: GitHub Support Telegram Group is an online community on Telegram where GitHub users can get help with issues related to GitHub from other community members.
+  url:  "https://t.me/+8GTxVam3attjYjc1"
+  filters: [Telegram Group]
   categories: [5. Support]
   tags: []
