@@ -90,14 +90,14 @@
   tags: []
 
 - name: 3. Vegetable Shop Website
-  description: Welcome to online Vegetable Shop, your ultimate source for everything related to vegetables. Here, you'll find information about various types of vegetables, including their health benefits, nutritional value, and culinary uses. 
+  description: A vegetable shop website is an online platform that allows customers to view and purchase a wide variety of fresh vegetables and fruits from the comfort of their homes. The website typically features images and descriptions of the available produce, along with pricing and other relevant information such as nutritional value and origin. Customers can easily place orders, pay online, and choose a delivery option that suits them.  
   url:  "https://github.com/World-of-Templates/HTMLDesign-eCommerce-Free-Templates/tree/main/Eatveg"
   filters: [E-commerce, Website]
   categories: [4. Free Template]
   tags: []
 
 - name: 4. Farming Friends Website
-  description: Welcome to our Farming Friends website! We're a sustainable community that values conscious living, minimizing our environmental impact, and creating a high quality of life. Join us in creating a better world.
+  description: Farming Friends is a website committed to promoting sustainable living and reducing our environmental impact. We believe in conscious living and strive to create a high quality of life for ourselves and future generations. Our website offers resources, information, and a supportive community for those looking to live a more eco-friendly and conscious lifestyle. Join us in our mission to create a better world through sustainable practices.
   url:  "https://github.com/Eco-Villaage/eco-villaage.github.io"
   filters: [Networking, Website]
   categories: [4. Free Template]
@@ -137,6 +137,13 @@
   filters: [Fitness, Website]
   categories: [4. Free Template]
   tags: []  
+
+- name: 10. SoundWave Band Website
+  description: The SoundWave Band website is the online platform for a talented group of musicians who specialize in live performances. The website features information about the band, including their members, music genre, and upcoming shows. Fans can purchase tickets and merchandise through the website. Additionally, the website may offer samples of the band's music, photos and videos of their performances, and information about their music-making process. The website is designed to connect fans with the SoundWave Band and keep them up-to-date on the band's latest activities.
+  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Yoga%20Template%202"
+  filters: [Fitness, Website]
+  categories: [4. Free Template]
+  tags: [] 
 
 
 - name: 1. About GitHub Support
