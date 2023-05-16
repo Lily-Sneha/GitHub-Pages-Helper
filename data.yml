@@ -75,75 +75,124 @@
   categories: [3. Resources]
   tags: []
 
-- name: 1. Portfolio Website
-  description: A portfolio website is a type of website that showcases an individual's or a company's work or achievements in a particular field, such as art, design, writing, or photography.
+- name: Portfolio Website
+  description: This is a singal page website template. It has 4 internal links in header, about section, resume section, project section, development section, graphic design section, and contact section.
   url:  "https://github.com/officialabhishekgautam/Portfolio-Website"
   filters: [Portfolio, Website]
   categories: [4. Free Template]
   tags: []
   
-- name: 2. Blog Single Page Website
-  description: A blogging website is a site where people can regularly post articles or entries on various topics, such as personal experiences, opinions, news, or tutorials. It often includes features like categories, tags, and comments to make it easy for visitors to engage with the content.
+- name: Blog Website
+  description: This is a singal page website. It has a nav bar, and some images with text.
   url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Blog%20Page%20Website"
   filters: [Blog, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 3. Vegetable Shop Website
-  description: A vegetable shop website is an online platform that allows customers to view and purchase a wide variety of fresh vegetables and fruits from the comfort of their homes. The website typically features images and descriptions of the available produce, along with pricing and other relevant information such as nutritional value and origin. Customers can easily place orders, pay online, and choose a delivery option that suits them.  
+- name: Vegetable Shop Website
+  description: This is a multi-purpose multi page website template. It has 6 links in the header, a carousel in the home page, and a footer.
   url:  "https://github.com/World-of-Templates/HTMLDesign-eCommerce-Free-Templates/tree/main/Eatveg"
   filters: [E-commerce, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 4. Farming Friends Website
-  description: Farming Friends is a website committed to promoting sustainable living and reducing our environmental impact. We believe in conscious living and strive to create a high quality of life for ourselves and future generations. Our website offers resources, information, and a supportive community for those looking to live a more eco-friendly and conscious lifestyle. Join us in our mission to create a better world through sustainable practices.
+- name: Farming Friends Website
+  description: This is a multi-purpose multi page website template. It has 2 links in the header, a whatsapp bot, and a footer.
   url:  "https://github.com/Eco-Villaage/eco-villaage.github.io"
   filters: [Networking, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 5. Login and Signup single page Website
-  description: A login and signup page website is a web application that allows users to create a new account or login to an existing account. These pages are essential for websites that require user authentication to access certain features or content. A typical login page will prompt users to enter their username and password, while a signup page will ask for basic personal information such as name, email address, and a password. Once a user has created an account or logged in, they can access the website's protected content or features. A well-designed login and signup page can help enhance the user experience and ensure the security of user data.
+- name: Tourist Place Website
+  description: This is a multi-purpose multi page website template. It has a home page, a blog page, a login sign up section, and a footer. 
   url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/login%20and%20signup%20page"
-  filters: [Networking, Website]
+  filters: [Destination Marketing, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 6. Cake Shop Website
-  description: A cake shop website is an online platform that showcases various types of cakes and baked goods that are available for purchase. Typically, the website would include a catalog of available cakes with pictures, descriptions, and pricing information. The website may also provide users with the ability to customize cakes or place orders for specific occasions. Additionally, a cake shop website may include information about the bakery, such as its location, hours of operation, and history. Some cake shop websites may also offer additional services such as delivery, catering, or baking classes. A well-designed cake shop website can attract customers and help build a strong brand.
+- name: Cake Shop Website
+  description: This is a multi-purpose multi page website template. It has a home page, a header, footer and a customer reviews page.
   url:  "https://cool-frontend-templates.netlify.app/cakeshopwebsite/"
   filters: [E-commerce, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 7. Gym Website
-  description: A gym website is a web platform that provides information about a gym's facilities, services, and membership options. The website typically includes a homepage with an overview of the gym's features, such as equipment, classes, personal training, and pricing information. Additionally, a gym website may provide details about the gym's location, hours of operation, and any special promotions or discounts. Some gym websites may also include a schedule of classes, allowing users to sign up for specific sessions online. A well-designed gym website can help attract new members and provide a convenient way for existing members to stay informed about the gym's offerings.
+- name: Gym Website
+  description: This is a multi-purpose single page website template. It has a home page, an about section, a carousel, a sign up button, a membership plan section, and a footer.
   url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Gym%20Website"
   filters: [Fitness, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 8. Audition page
-  description: An audition page is a web page that tells actors, singers, dancers, or other performers about a casting call. It gives details about the role, like what kind of performance is required. The audition page will also give information about where and when the audition will take place, as well as what the performers should prepare beforehand. A good audition page can help performers understand what's expected of them and attract the right talent for the role.
-  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Gym%20Website"
+- name: Audition page
+  description: This is a multi-purpose single page audition website template. It has a registration form.
+  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Auditions%20Page"
   filters: [Entertainment, Website]
   categories: [4. Free Template]
   tags: []
 
-- name: 9. Yoga Page
-  description: A yoga website is an online platform that offers a range of resources and services related to the practice of yoga. It typically includes information about yoga classes, workshops, retreats, and teacher trainings, as well as instructional videos, articles, and blogs on various aspects of yoga. The website may also feature a community section where yogis can connect with each other, share their experiences, and find support. Overall, a yoga website aims to promote the practice of yoga as a way to improve physical, mental, and emotional health and wellbeing.
+- name: Yoga Website
+  description: This is a multi-purpose single page website template. It has several sections.
   url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Yoga%20Template%202"
   filters: [Fitness, Website]
   categories: [4. Free Template]
   tags: []  
 
-- name: 10. SoundWave Band Website
-  description: The SoundWave Band website is the online platform for a talented group of musicians who specialize in live performances. The website features information about the band, including their members, music genre, and upcoming shows. Fans can purchase tickets and merchandise through the website. Additionally, the website may offer samples of the band's music, photos and videos of their performances, and information about their music-making process. The website is designed to connect fans with the SoundWave Band and keep them up-to-date on the band's latest activities.
-  url:  "https://github.com/arpit456jain/Cool-Front-End-Templates/tree/master/Yoga%20Template%202"
-  filters: [Fitness, Website]
+- name: SoundWave Band Website
+  description: This is a multi-purpose single page website. It has contact section and carousel section.
+  url:  "https://github.com/BulmaTemplates/bulma-templates"
+  filters: [Entertainment, Website]
   categories: [4. Free Template]
   tags: [] 
+
+- name: Wedding Planner Website
+  description: It is a multi-purpose single page website. It has contact section and carousel section.
+  url:  "https://github.com/aldi/awesome-bulma-templates"
+  filters: [Event Planning, Website]
+  categories: [4. Free Template]
+  tags: [] 
+
+- name: Login page Website
+  description: This is a single page login website template.
+  url:  "https://github.com/BulmaTemplates/bulma-templates"
+  filters: [Website Design, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: Email Website 
+  description: This is a single page email website template.
+  url:  "https://github.com/hunzaboy/CodedMailsFree"
+  filters: [Email Design, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: Survey Form
+  description: This is a multi-purpose single page survey form template.
+  url:  "https://github.com/FormBold/html-form-examples-templates"
+  filters: [Data Collection, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: SkillMaster Certification Course Website
+  description: This is a multi-purpose multi page website template. It has a header with multiple dropdowns. Multiple different sections and a footer.
+  url:  "https://github.com/yftzeng/free-web-templates/tree/master/foundation"
+  filters: [Education, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: Bakery Website
+  description: This is a multi-purpose single page website template. It has a header and several sections.
+  url:  "https://github.com/farah2911/Online-Bakery-Shop"
+  filters: [Food & Beverage, Website]
+  categories: [4. Free Template]
+  tags: []
+
+- name: Watch Shop
+  description: This is a multi-purpose multi page website template. It has dropdowns in the header, and several sections including a video section and a footer.
+  url:  "https://github.com/eneshamzaj328/Ecommerce-Free-Template"
+  filters: [E-commerce, Website]
+  categories: [4. Free Template]
+  tags: []  
 
 
 - name: 1. About GitHub Support
